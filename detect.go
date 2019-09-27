@@ -26,6 +26,7 @@ func init() {
 		new(GitDetector),
 		new(BitBucketDetector),
 		new(S3Detector),
+		new(OSSDetector),
 		new(GCSDetector),
 		new(FileDetector),
 	}

@@ -26,7 +26,7 @@ binaries.
 
 ## Installation and Usage
 
-Package documentation can be found on
+Package documentationr can be found on
 [GoDoc](http://godoc.org/github.com/hashicorp/go-getter).
 
 Installation can be done with a normal `go get`:

@@ -68,6 +68,7 @@ func init() {
 		"file":  new(FileGetter),
 		"git":   new(GitGetter),
 		"gcs":   new(GCSGetter),
+		"oss":   new(OSSGetter),
 		"hg":    new(HgGetter),
 		"s3":    new(S3Getter),
 		"http":  httpGetter,
